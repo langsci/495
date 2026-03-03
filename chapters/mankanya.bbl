@@ -1,0 +1,466 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Bayepar2013}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=45c8b568d3ea12f41090172128ee71bd}{%
+           family={Bayèpar},
+           familyi={B\bibinitperiod},
+           given={Georges\bibnamedelimb Bëcar\bibnamedelima Wobteine},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université Cheikh Anta Diop}%
+      }
+      \list{location}{1}{%
+        {Dakar}%
+      }
+      \strng{namehash}{45c8b568d3ea12f41090172128ee71bd}
+      \strng{fullhash}{45c8b568d3ea12f41090172128ee71bd}
+      \strng{fullhashraw}{45c8b568d3ea12f41090172128ee71bd}
+      \strng{bibnamehash}{45c8b568d3ea12f41090172128ee71bd}
+      \strng{authorbibnamehash}{45c8b568d3ea12f41090172128ee71bd}
+      \strng{authornamehash}{45c8b568d3ea12f41090172128ee71bd}
+      \strng{authorfullhash}{45c8b568d3ea12f41090172128ee71bd}
+      \strng{authorfullhashraw}{45c8b568d3ea12f41090172128ee71bd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Les emprunts linguistiques du mancagne au portugais}
+      \field{type}{phdthesis}
+      \field{year}{2013}
+    \endentry
+    \entry{Dahl2000}{collection}{}{}
+      \name{editor}{1}{}{%
+        {{hash=f559201717fa43fb909f1d5a668ae42b}{%
+           family={Dahl},
+           familyi={D\bibinitperiod},
+           given={Östen},
+           giveni={Ö\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{fullhash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{fullhashraw}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{bibnamehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{editorbibnamehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{editornamehash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{editorfullhash}{f559201717fa43fb909f1d5a668ae42b}
+      \strng{editorfullhashraw}{f559201717fa43fb909f1d5a668ae42b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{number}{20-6}
+      \field{series}{Empirical Approaches to Language Typology}
+      \field{title}{Tense and Aspect in the Languages of {Europe}}
+      \field{year}{2000}
+      \verb{doi}
+      \verb 10.1515/9783110197099
+      \endverb
+    \endentry
+    \entry{EberhardEtAl2019}{book}{}{}
+      \name{editor}{3}{}{%
+        {{hash=1e38ee8637223269fb53d2cb4eb57ffb}{%
+           family={Eberhard},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a1364c293dd9115aa707a9600c201001}{%
+           family={Simons},
+           familyi={S\bibinitperiod},
+           given={Gary\bibnamedelima F.},
+           giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=5e8e404644223e9415ccddebd395284d}{%
+           family={Fennig},
+           familyi={F\bibinitperiod},
+           given={Charles\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dallas, Texas}%
+      }
+      \list{publisher}{1}{%
+        {SIL International}%
+      }
+      \strng{namehash}{b4a21b50e44780c5e8e7d78429c64085}
+      \strng{fullhash}{464c78608bcbec0c0a45560085117d60}
+      \strng{fullhashraw}{464c78608bcbec0c0a45560085117d60}
+      \strng{bibnamehash}{464c78608bcbec0c0a45560085117d60}
+      \strng{editorbibnamehash}{464c78608bcbec0c0a45560085117d60}
+      \strng{editornamehash}{b4a21b50e44780c5e8e7d78429c64085}
+      \strng{editorfullhash}{464c78608bcbec0c0a45560085117d60}
+      \strng{editorfullhashraw}{464c78608bcbec0c0a45560085117d60}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{22}
+      \field{subtitle}{Languages of the World}
+      \field{title}{Ethnologue}
+      \field{urlday}{13}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.ethnologue.com
+      \endverb
+      \verb{url}
+      \verb http://www.ethnologue.com
+      \endverb
+    \endentry
+    \entry{Gaved2004}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=3f3dbea724b9079bbeb6b98c750a2c61}{%
+           family={Gaved},
+           familyi={G\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dakarl}%
+      }
+      \list{publisher}{1}{%
+        {SIL}%
+      }
+      \strng{namehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{fullhash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{fullhashraw}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{bibnamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorbibnamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authornamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorfullhash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorfullhashraw}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Petit lexique mancagne-français}
+      \field{year}{2004}
+    \endentry
+    \entry{Gaved2007}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=3f3dbea724b9079bbeb6b98c750a2c61}{%
+           family={Gaved},
+           familyi={G\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dakar}%
+      }
+      \list{publisher}{1}{%
+        {SIL}%
+      }
+      \strng{namehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{fullhash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{fullhashraw}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{bibnamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorbibnamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authornamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorfullhash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorfullhashraw}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Un article sur la grammaire du mancagne}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.sil.org/resources/archives/42699
+      \endverb
+      \verb{url}
+      \verb http://www.sil.org/resources/archives/42699
+      \endverb
+    \endentry
+    \entry{Gaved2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3f3dbea724b9079bbeb6b98c750a2c61}{%
+           family={Gaved},
+           familyi={G\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dakar}%
+      }
+      \strng{namehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{fullhash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{fullhashraw}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{bibnamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorbibnamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authornamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorfullhash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorfullhashraw}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \field{extraname}{3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Colloque « Sénélangues 2015 - Langues d’Afrique de l’ouest » , Dakar, Senegal, 24-25 April 2015}
+      \field{title}{Quelques constructions en mancagne qui utilise les auxiliaires}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.sil.org/resources/archives/61602
+      \endverb
+      \verb{url}
+      \verb http://www.sil.org/resources/archives/61602
+      \endverb
+    \endentry
+    \entry{Gaved2020}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=3f3dbea724b9079bbeb6b98c750a2c61}{%
+           family={Gaved},
+           familyi={G\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {LOT}%
+      }
+      \strng{namehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{fullhash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{fullhashraw}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{bibnamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorbibnamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authornamehash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorfullhash}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \strng{authorfullhashraw}{3f3dbea724b9079bbeb6b98c750a2c61}
+      \field{extraname}{4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{An {A}tlantic language of {Guinea-Bissau, Senegal and the Gambia}}
+      \field{title}{A grammar of {M}ankanya}
+      \field{type}{phdthesis}
+      \field{year}{2020}
+    \endentry
+    \entry{Maliman2005}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=2c02271d1432d2505718b3a3a464bb21}{%
+           family={Maliman},
+           familyi={M\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université Cheikh Anta Diop}%
+      }
+      \list{location}{1}{%
+        {Dakar}%
+      }
+      \list{publisher}{1}{%
+        {Dakar}%
+      }
+      \strng{namehash}{2c02271d1432d2505718b3a3a464bb21}
+      \strng{fullhash}{2c02271d1432d2505718b3a3a464bb21}
+      \strng{fullhashraw}{2c02271d1432d2505718b3a3a464bb21}
+      \strng{bibnamehash}{2c02271d1432d2505718b3a3a464bb21}
+      \strng{authorbibnamehash}{2c02271d1432d2505718b3a3a464bb21}
+      \strng{authornamehash}{2c02271d1432d2505718b3a3a464bb21}
+      \strng{authorfullhash}{2c02271d1432d2505718b3a3a464bb21}
+      \strng{authorfullhashraw}{2c02271d1432d2505718b3a3a464bb21}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Esquisse phonologique et organisation des formes verbales simple de la conjugaison non périphrastique du houla}
+      \field{type}{Mémoire de maîtrise}
+      \field{year}{2005}
+    \endentry
+    \entry{Miestamo2005}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhashraw}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{bibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorbibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authornamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhashraw}{898dbabcab452b2f2856a7bd9d9875db}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-11-018579-9}
+      \field{number}{31}
+      \field{subtitle}{The negation of declarative verbal main clauses in a typological perspective}
+      \field{title}{Standard negation}
+      \field{year}{2005}
+      \verb{doi}
+      \verb 10.1515/9783110197631
+      \endverb
+    \endentry
+    \entry{TheQuestionnaire}{unpublished}{}{}
+      \name{author}{1}{}{%
+        {{hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhashraw}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{bibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorbibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authornamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhashraw}{898dbabcab452b2f2856a7bd9d9875db}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Revised in February 2019, revisions done together with Ljuba Veselinova}
+      \field{title}{Questionnaire for describing the negation system of a language}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb http://tulquest.huma-num.fr/fr/node/134
+      \endverb
+      \verb{url}
+      \verb http://tulquest.huma-num.fr/fr/node/134
+      \endverb
+    \endentry
+    \entry{Montébran2021}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=b3e005a137aa97cb75c9a90f080c888e}{%
+           family={Montébran},
+           familyi={M\bibinitperiod},
+           given={Aurore},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {INALCO}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {INALCO}%
+      }
+      \strng{namehash}{b3e005a137aa97cb75c9a90f080c888e}
+      \strng{fullhash}{b3e005a137aa97cb75c9a90f080c888e}
+      \strng{fullhashraw}{b3e005a137aa97cb75c9a90f080c888e}
+      \strng{bibnamehash}{b3e005a137aa97cb75c9a90f080c888e}
+      \strng{authorbibnamehash}{b3e005a137aa97cb75c9a90f080c888e}
+      \strng{authornamehash}{b3e005a137aa97cb75c9a90f080c888e}
+      \strng{authorfullhash}{b3e005a137aa97cb75c9a90f080c888e}
+      \strng{authorfullhashraw}{b3e005a137aa97cb75c9a90f080c888e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Typologie de la négation dans le contexte du temps-aspect-mode, dans les langues atlantiques ({Sénégal, Guinée, Guinée-Bissau})}
+      \field{type}{phdthesis}
+      \field{year}{2021}
+    \endentry
+    \entry{Trifcovič1969}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d1b30cb4495cbcba501c21c9725adc70}{%
+           family={Trifcovič},
+           familyi={T\bibinitperiod},
+           given={Mirjana},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dakar}%
+      }
+      \list{publisher}{1}{%
+        {IFAN}%
+      }
+      \strng{namehash}{d1b30cb4495cbcba501c21c9725adc70}
+      \strng{fullhash}{d1b30cb4495cbcba501c21c9725adc70}
+      \strng{fullhashraw}{d1b30cb4495cbcba501c21c9725adc70}
+      \strng{bibnamehash}{d1b30cb4495cbcba501c21c9725adc70}
+      \strng{authorbibnamehash}{d1b30cb4495cbcba501c21c9725adc70}
+      \strng{authornamehash}{d1b30cb4495cbcba501c21c9725adc70}
+      \strng{authorfullhash}{d1b30cb4495cbcba501c21c9725adc70}
+      \strng{authorfullhashraw}{d1b30cb4495cbcba501c21c9725adc70}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Le mancagne : étude phonologique et morphologique}
+      \field{year}{1969}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

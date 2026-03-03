@@ -1,0 +1,1199 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Blokland2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=92f1dd5c79d516e7071ec5416ff75578}{%
+           family={Blokland},
+           familyi={B\bibinitperiod},
+           given={Rogier},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{92f1dd5c79d516e7071ec5416ff75578}
+      \strng{fullhash}{92f1dd5c79d516e7071ec5416ff75578}
+      \strng{fullhashraw}{92f1dd5c79d516e7071ec5416ff75578}
+      \strng{bibnamehash}{92f1dd5c79d516e7071ec5416ff75578}
+      \strng{authorbibnamehash}{92f1dd5c79d516e7071ec5416ff75578}
+      \strng{authornamehash}{92f1dd5c79d516e7071ec5416ff75578}
+      \strng{authorfullhash}{92f1dd5c79d516e7071ec5416ff75578}
+      \strng{authorfullhashraw}{92f1dd5c79d516e7071ec5416ff75578}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Estonian and Finno-Ugric Linguistics}
+      \field{number}{1}
+      \field{title}{Notes on an obsolete tensed negative pronoun construction in {L}ivonian}
+      \field{volume}{13}
+      \field{year}{2022}
+      \field{pages}{37\bibrangedash 64}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.12697/jeful.2022.13.1.02
+      \endverb
+    \endentry
+    \entry{BloklandInaba2015}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=92f1dd5c79d516e7071ec5416ff75578}{%
+           family={Blokland},
+           familyi={B\bibinitperiod},
+           given={Rogier},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7ac99909f3ab253f048542838e1c3c33}{%
+           family={Inaba},
+           familyi={I\bibinitperiod},
+           given={Nobufumi},
+           giveni={N\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=430dc8d3b9d63ab76cf68cb3368a1785}{%
+           family={Tamm},
+           familyi={T\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d23a5b7721ee80048d1136048c111781}{%
+           family={Wagner-Nagy},
+           familyi={W\bibinithyphendelim N\bibinitperiod},
+           given={Beáta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{89c2e9ca39b6d61f12cd4155d6637560}
+      \strng{fullhash}{89c2e9ca39b6d61f12cd4155d6637560}
+      \strng{fullhashraw}{89c2e9ca39b6d61f12cd4155d6637560}
+      \strng{bibnamehash}{89c2e9ca39b6d61f12cd4155d6637560}
+      \strng{authorbibnamehash}{89c2e9ca39b6d61f12cd4155d6637560}
+      \strng{authornamehash}{89c2e9ca39b6d61f12cd4155d6637560}
+      \strng{authorfullhash}{89c2e9ca39b6d61f12cd4155d6637560}
+      \strng{authorfullhashraw}{89c2e9ca39b6d61f12cd4155d6637560}
+      \strng{editorbibnamehash}{bf066ac66c0e1795db537a2113e6ea4e}
+      \strng{editornamehash}{d919029c2040d0c499f0b2d909f3e9a4}
+      \strng{editorfullhash}{bf066ac66c0e1795db537a2113e6ea4e}
+      \strng{editorfullhashraw}{bf066ac66c0e1795db537a2113e6ea4e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Negation in {Uralic} languages}
+      \field{number}{108}
+      \field{series}{Typological Studies in Language}
+      \field{title}{Negation in {South} {Saami}}
+      \field{year}{2015}
+      \field{pages}{377\bibrangedash 398}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1075/tsl.108.14blo
+      \endverb
+    \endentry
+    \entry{Collinder1938}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=af7145c21dad05c6f0dc9f790913bf4a}{%
+           family={Collinder},
+           familyi={C\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Helsinki}%
+      }
+      \list{publisher}{1}{%
+        {Suomalais-Ugrilainen Seura}%
+      }
+      \strng{namehash}{af7145c21dad05c6f0dc9f790913bf4a}
+      \strng{fullhash}{af7145c21dad05c6f0dc9f790913bf4a}
+      \strng{fullhashraw}{af7145c21dad05c6f0dc9f790913bf4a}
+      \strng{bibnamehash}{af7145c21dad05c6f0dc9f790913bf4a}
+      \strng{authorbibnamehash}{af7145c21dad05c6f0dc9f790913bf4a}
+      \strng{authornamehash}{af7145c21dad05c6f0dc9f790913bf4a}
+      \strng{authorfullhash}{af7145c21dad05c6f0dc9f790913bf4a}
+      \strng{authorfullhashraw}{af7145c21dad05c6f0dc9f790913bf4a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{74}
+      \field{series}{Suomalais-Ugrilaisen Seuran Toimituksia}
+      \field{title}{{Lautlehre} des {W}aldlappischen {D}ialektes von {G}ällivare}
+      \field{year}{1938}
+    \endentry
+    \entry{Grundstrom1926}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=0552c52185cef29671692c0a00f38330}{%
+           family={Grundström},
+           familyi={G\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{0552c52185cef29671692c0a00f38330}
+      \strng{fullhash}{0552c52185cef29671692c0a00f38330}
+      \strng{fullhashraw}{0552c52185cef29671692c0a00f38330}
+      \strng{bibnamehash}{0552c52185cef29671692c0a00f38330}
+      \strng{authorbibnamehash}{0552c52185cef29671692c0a00f38330}
+      \strng{authornamehash}{0552c52185cef29671692c0a00f38330}
+      \strng{authorfullhash}{0552c52185cef29671692c0a00f38330}
+      \strng{authorfullhashraw}{0552c52185cef29671692c0a00f38330}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Norrbotten}
+      \field{title}{Sägner och folktro bland lappar och nybyggare i {Jokkmokk}}
+      \field{year}{1926}
+      \field{pages}{127\bibrangedash 141}
+      \range{pages}{15}
+    \endentry
+    \entry{Grundström1946}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=0552c52185cef29671692c0a00f38330}{%
+           family={Grundström},
+           familyi={G\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Uppsala}%
+      }
+      \list{publisher}{1}{%
+        {Lundequistska bokhandeln}%
+      }
+      \strng{namehash}{0552c52185cef29671692c0a00f38330}
+      \strng{fullhash}{0552c52185cef29671692c0a00f38330}
+      \strng{fullhashraw}{0552c52185cef29671692c0a00f38330}
+      \strng{bibnamehash}{0552c52185cef29671692c0a00f38330}
+      \strng{authorbibnamehash}{0552c52185cef29671692c0a00f38330}
+      \strng{authornamehash}{0552c52185cef29671692c0a00f38330}
+      \strng{authorfullhash}{0552c52185cef29671692c0a00f38330}
+      \strng{authorfullhashraw}{0552c52185cef29671692c0a00f38330}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{1}
+      \field{series}{Skrifter utgivna genom Dialekt- och folkminnesarkivet i Uppsala. Ser. C}
+      \field{sortyear}{1946}
+      \field{title}{Lulelapsk ordbok. {L}ulelappisches {W}örterbuch}
+      \field{year}{1946--1954}
+    \endentry
+    \entry{Kejonen2022}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=db7796935c81fca84ea4bdcf35d0c57d}{%
+           family={Kejonen},
+           familyi={K\bibinitperiod},
+           given={Olle},
+           giveni={O\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=8e2dd969ec9d9040c2258f18f84a24ac}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stockholm}%
+      }
+      \list{publisher}{1}{%
+        {Vulkan}%
+      }
+      \strng{namehash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{fullhash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{fullhashraw}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{bibnamehash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{authorbibnamehash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{authornamehash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{authorfullhash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{authorfullhashraw}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{editorbibnamehash}{8e2dd969ec9d9040c2258f18f84a24ac}
+      \strng{editornamehash}{8e2dd969ec9d9040c2258f18f84a24ac}
+      \strng{editorfullhash}{8e2dd969ec9d9040c2258f18f84a24ac}
+      \strng{editorfullhashraw}{8e2dd969ec9d9040c2258f18f84a24ac}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Vuovddesáme: {S}kogssamer i {F}lakaberg}
+      \field{title}{{Björn Collinder} och den lulesamiska skogsdialekten}
+      \field{year}{2022}
+      \field{pages}{118\bibrangedash 124}
+      \range{pages}{7}
+    \endentry
+    \entry{KejonenFC}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=db7796935c81fca84ea4bdcf35d0c57d}{%
+           family={Kejonen},
+           familyi={K\bibinitperiod},
+           given={Olle},
+           giveni={O\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=92f1dd5c79d516e7071ec5416ff75578}{%
+           family={Blokland},
+           familyi={B\bibinitperiod},
+           given={Rogier},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8c529ae6bc4ee160ca0a259873f2d0da}{%
+           family={Rießler},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b60b7f622cd42a7c46f542b05b0c0f3c}{%
+           family={Söder},
+           familyi={S\bibinitperiod},
+           given={Torbjörn},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Uppsala}%
+      }
+      \list{publisher}{1}{%
+        {Acta Universitatis Upsaliensis}%
+      }
+      \strng{namehash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{fullhash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{fullhashraw}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{bibnamehash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{authorbibnamehash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{authornamehash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{authorfullhash}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{authorfullhashraw}{db7796935c81fca84ea4bdcf35d0c57d}
+      \strng{editorbibnamehash}{c3cb86d8fed00f40dd1497e5f5ea7ce3}
+      \strng{editornamehash}{d00f7433d60b90b849e879553a742ab2}
+      \strng{editorfullhash}{c3cb86d8fed00f40dd1497e5f5ea7ce3}
+      \strng{editorfullhashraw}{c3cb86d8fed00f40dd1497e5f5ea7ce3}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{pubstate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Saami Linguistics in {Uppsala}}
+      \field{pubstate}{forthcoming}
+      \field{title}{Verb inflection in {F}orest {L}ule {S}aami}
+    \endentry
+    \entry{Kintel1991}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e2d04638ae21992c35cec54988f88891}{%
+           family={Kintel},
+           familyi={K\bibinitperiod},
+           given={Anders},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Samisk utdanningsråd}%
+      }
+      \strng{namehash}{e2d04638ae21992c35cec54988f88891}
+      \strng{fullhash}{e2d04638ae21992c35cec54988f88891}
+      \strng{fullhashraw}{e2d04638ae21992c35cec54988f88891}
+      \strng{bibnamehash}{e2d04638ae21992c35cec54988f88891}
+      \strng{authorbibnamehash}{e2d04638ae21992c35cec54988f88891}
+      \strng{authornamehash}{e2d04638ae21992c35cec54988f88891}
+      \strng{authorfullhash}{e2d04638ae21992c35cec54988f88891}
+      \strng{authorfullhashraw}{e2d04638ae21992c35cec54988f88891}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Syntaks og ordavledninger i lulesamisk}
+      \field{year}{1991}
+    \endentry
+    \entry{Kintel2012}{unpublished}{}{}
+      \name{author}{1}{}{%
+        {{hash=e2d04638ae21992c35cec54988f88891}{%
+           family={Kintel},
+           familyi={K\bibinitperiod},
+           given={Anders},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2d04638ae21992c35cec54988f88891}
+      \strng{fullhash}{e2d04638ae21992c35cec54988f88891}
+      \strng{fullhashraw}{e2d04638ae21992c35cec54988f88891}
+      \strng{bibnamehash}{e2d04638ae21992c35cec54988f88891}
+      \strng{authorbibnamehash}{e2d04638ae21992c35cec54988f88891}
+      \strng{authornamehash}{e2d04638ae21992c35cec54988f88891}
+      \strng{authorfullhash}{e2d04638ae21992c35cec54988f88891}
+      \strng{authorfullhashraw}{e2d04638ae21992c35cec54988f88891}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Julevsáme-dá[r]o báhkogirjje}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://gtweb.uit.no/webdict/ak/smj2nob/s_smj2nob.html
+      \endverb
+      \verb{url}
+      \verb http://gtweb.uit.no/webdict/ak/smj2nob/s_smj2nob.html
+      \endverb
+    \endentry
+    \entry{Korhonen2005}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=951af1576c036bb893bf9ef4944455e0}{%
+           family={Korhonen},
+           familyi={K\bibinitperiod},
+           given={Olavi},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jokkmokk}%
+      }
+      \list{publisher}{1}{%
+        {Samernas utbildningscentrum}%
+      }
+      \strng{namehash}{951af1576c036bb893bf9ef4944455e0}
+      \strng{fullhash}{951af1576c036bb893bf9ef4944455e0}
+      \strng{fullhashraw}{951af1576c036bb893bf9ef4944455e0}
+      \strng{bibnamehash}{951af1576c036bb893bf9ef4944455e0}
+      \strng{authorbibnamehash}{951af1576c036bb893bf9ef4944455e0}
+      \strng{authornamehash}{951af1576c036bb893bf9ef4944455e0}
+      \strng{authorfullhash}{951af1576c036bb893bf9ef4944455e0}
+      \strng{authorfullhashraw}{951af1576c036bb893bf9ef4944455e0}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Báhkogirjje: {J}ulevsámes dárruj, dáros julevsábmáj. {O}rdbok: lulesamisk svensk, svensk lulesamisk}
+      \field{year}{2005}
+    \endentry
+    \entry{Miestamo2005}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhashraw}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{bibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorbibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authornamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhashraw}{898dbabcab452b2f2856a7bd9d9875db}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-11-018579-9}
+      \field{number}{31}
+      \field{subtitle}{The negation of declarative verbal main clauses in a typological perspective}
+      \field{title}{Standard negation}
+      \field{year}{2005}
+      \verb{doi}
+      \verb 10.1515/9783110197631
+      \endverb
+    \endentry
+    \entry{TheQuestionnaire}{unpublished}{}{}
+      \name{author}{1}{}{%
+        {{hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhashraw}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{bibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorbibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authornamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhashraw}{898dbabcab452b2f2856a7bd9d9875db}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Revised in February 2019, revisions done together with Ljuba Veselinova}
+      \field{title}{Questionnaire for describing the negation system of a language}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb http://tulquest.huma-num.fr/fr/node/134
+      \endverb
+      \verb{url}
+      \verb http://tulquest.huma-num.fr/fr/node/134
+      \endverb
+    \endentry
+    \entry{MiestamoKoponen2015}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f9896b9522a140257ff3f3df76892650}{%
+           family={Koponen},
+           familyi={K\bibinitperiod},
+           given={Eino},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=430dc8d3b9d63ab76cf68cb3368a1785}{%
+           family={Tamm},
+           familyi={T\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d23a5b7721ee80048d1136048c111781}{%
+           family={Wagner-Nagy},
+           familyi={W\bibinithyphendelim N\bibinitperiod},
+           given={Beáta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{9b2d46a7e5b92932c71dc5972a372acd}
+      \strng{fullhash}{9b2d46a7e5b92932c71dc5972a372acd}
+      \strng{fullhashraw}{9b2d46a7e5b92932c71dc5972a372acd}
+      \strng{bibnamehash}{9b2d46a7e5b92932c71dc5972a372acd}
+      \strng{authorbibnamehash}{9b2d46a7e5b92932c71dc5972a372acd}
+      \strng{authornamehash}{9b2d46a7e5b92932c71dc5972a372acd}
+      \strng{authorfullhash}{9b2d46a7e5b92932c71dc5972a372acd}
+      \strng{authorfullhashraw}{9b2d46a7e5b92932c71dc5972a372acd}
+      \strng{editorbibnamehash}{bf066ac66c0e1795db537a2113e6ea4e}
+      \strng{editornamehash}{d919029c2040d0c499f0b2d909f3e9a4}
+      \strng{editorfullhash}{bf066ac66c0e1795db537a2113e6ea4e}
+      \strng{editorfullhashraw}{bf066ac66c0e1795db537a2113e6ea4e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Negation in {Uralic} languages}
+      \field{number}{108}
+      \field{series}{Typological Studies in Language}
+      \field{title}{Negation in {Skolt} {S}aami}
+      \field{year}{2015}
+      \field{pages}{353\bibrangedash 375}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1075/tsl.108.13mie
+      \endverb
+    \endentry
+    \entry{Mikkelsen2011}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=dcc148b3a59c88b967480d90c3ec9656}{%
+           family={Mikkelsen},
+           familyi={M\bibinitperiod},
+           given={Inga\bibnamedelimb Lill\bibnamedelima Sigga},
+           giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Tromsø}%
+      }
+      \strng{namehash}{dcc148b3a59c88b967480d90c3ec9656}
+      \strng{fullhash}{dcc148b3a59c88b967480d90c3ec9656}
+      \strng{fullhashraw}{dcc148b3a59c88b967480d90c3ec9656}
+      \strng{bibnamehash}{dcc148b3a59c88b967480d90c3ec9656}
+      \strng{authorbibnamehash}{dcc148b3a59c88b967480d90c3ec9656}
+      \strng{authornamehash}{dcc148b3a59c88b967480d90c3ec9656}
+      \strng{authorfullhash}{dcc148b3a59c88b967480d90c3ec9656}
+      \strng{authorfullhashraw}{dcc148b3a59c88b967480d90c3ec9656}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Objevta sadje ja struktuvrra indikatijva gárgadisájn}
+      \field{type}{MA thesis}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://munin.uit.no/handle/10037/3649
+      \endverb
+      \verb{url}
+      \verb https://munin.uit.no/handle/10037/3649
+      \endverb
+    \endentry
+    \entry{NystøJohnsen2011}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=5381c87f9e30f857dc0b33c2f7cb5d1a}{%
+           family={Nystø},
+           familyi={N\bibinitperiod},
+           given={Anders},
+           giveni={A\bibinitperiod}}}%
+        {{hash=02608c31b8d18240a64ec925c9686d3b}{%
+           family={Johnsen},
+           familyi={J\bibinitperiod},
+           given={Sigmund},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Drag}%
+      }
+      \list{publisher}{1}{%
+        {Báhko}%
+      }
+      \strng{namehash}{2e3ffd6c02e349b8dd1511c9befa26d6}
+      \strng{fullhash}{2e3ffd6c02e349b8dd1511c9befa26d6}
+      \strng{fullhashraw}{2e3ffd6c02e349b8dd1511c9befa26d6}
+      \strng{bibnamehash}{2e3ffd6c02e349b8dd1511c9befa26d6}
+      \strng{authorbibnamehash}{2e3ffd6c02e349b8dd1511c9befa26d6}
+      \strng{authornamehash}{2e3ffd6c02e349b8dd1511c9befa26d6}
+      \strng{authorfullhash}{2e3ffd6c02e349b8dd1511c9befa26d6}
+      \strng{authorfullhashraw}{2e3ffd6c02e349b8dd1511c9befa26d6}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Julevsáme giellakurssa: julevsámegiella álggijda. {Lulesamisk} språkkurs: lulesamisk for nybegynnere. 2, nuppát girjje}
+      \field{title}{Sámásta}
+      \field{year}{2011}
+    \endentry
+    \entry{Penttilä1963}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=8ae8b61a1195f8859a816588c0a4b35d}{%
+           family={Penttilä},
+           familyi={P\bibinitperiod},
+           given={Aarni},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Porvoo}%
+      }
+      \list{publisher}{1}{%
+        {WSOY}%
+      }
+      \strng{namehash}{8ae8b61a1195f8859a816588c0a4b35d}
+      \strng{fullhash}{8ae8b61a1195f8859a816588c0a4b35d}
+      \strng{fullhashraw}{8ae8b61a1195f8859a816588c0a4b35d}
+      \strng{bibnamehash}{8ae8b61a1195f8859a816588c0a4b35d}
+      \strng{authorbibnamehash}{8ae8b61a1195f8859a816588c0a4b35d}
+      \strng{authornamehash}{8ae8b61a1195f8859a816588c0a4b35d}
+      \strng{authorfullhash}{8ae8b61a1195f8859a816588c0a4b35d}
+      \strng{authorfullhashraw}{8ae8b61a1195f8859a816588c0a4b35d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Suomen kielioppi}
+      \field{year}{1963}
+    \endentry
+    \entry{Qvigstad1929}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1793ed9f7d24968424b541a8a93603ed}{%
+           family={Qvigstad},
+           familyi={Q\bibinitperiod},
+           given={Just\bibnamedelima Knud},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oslo}%
+      }
+      \list{publisher}{1}{%
+        {Aschehoug}%
+      }
+      \strng{namehash}{1793ed9f7d24968424b541a8a93603ed}
+      \strng{fullhash}{1793ed9f7d24968424b541a8a93603ed}
+      \strng{fullhashraw}{1793ed9f7d24968424b541a8a93603ed}
+      \strng{bibnamehash}{1793ed9f7d24968424b541a8a93603ed}
+      \strng{authorbibnamehash}{1793ed9f7d24968424b541a8a93603ed}
+      \strng{authornamehash}{1793ed9f7d24968424b541a8a93603ed}
+      \strng{authorfullhash}{1793ed9f7d24968424b541a8a93603ed}
+      \strng{authorfullhashraw}{1793ed9f7d24968424b541a8a93603ed}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lappiske eventyr og sagn. 4. {Lappiske eventyr og sagn fra Lyngen 2 og fra Nordland}}
+      \field{year}{1929}
+    \endentry
+    \entry{Rydving2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=91841a145e9f61e8341991e55203ef25}{%
+           family={Rydving},
+           familyi={R\bibinitperiod},
+           given={Håkan},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Helsinki}%
+      }
+      \list{publisher}{1}{%
+        {Finno-Ugrian Society}%
+      }
+      \strng{namehash}{91841a145e9f61e8341991e55203ef25}
+      \strng{fullhash}{91841a145e9f61e8341991e55203ef25}
+      \strng{fullhashraw}{91841a145e9f61e8341991e55203ef25}
+      \strng{bibnamehash}{91841a145e9f61e8341991e55203ef25}
+      \strng{authorbibnamehash}{91841a145e9f61e8341991e55203ef25}
+      \strng{authornamehash}{91841a145e9f61e8341991e55203ef25}
+      \strng{authorfullhash}{91841a145e9f61e8341991e55203ef25}
+      \strng{authorfullhashraw}{91841a145e9f61e8341991e55203ef25}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{269}
+      \field{series}{Suomalais-Ugrilaisen Seuran Toimituksia}
+      \field{subtitle}{Lexical variation in {S}aami}
+      \field{title}{Words and varieties}
+      \field{year}{2013}
+    \endentry
+    \entry{Sammallahti1998}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d9dca0dd69a7d9ad5e8d20c527d5e4b1}{%
+           family={Sammallahti},
+           familyi={S\bibinitperiod},
+           given={Pekka},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Kárášjohka}%
+      }
+      \list{publisher}{1}{%
+        {Davvi Girji}%
+      }
+      \strng{namehash}{d9dca0dd69a7d9ad5e8d20c527d5e4b1}
+      \strng{fullhash}{d9dca0dd69a7d9ad5e8d20c527d5e4b1}
+      \strng{fullhashraw}{d9dca0dd69a7d9ad5e8d20c527d5e4b1}
+      \strng{bibnamehash}{d9dca0dd69a7d9ad5e8d20c527d5e4b1}
+      \strng{authorbibnamehash}{d9dca0dd69a7d9ad5e8d20c527d5e4b1}
+      \strng{authornamehash}{d9dca0dd69a7d9ad5e8d20c527d5e4b1}
+      \strng{authorfullhash}{d9dca0dd69a7d9ad5e8d20c527d5e4b1}
+      \strng{authorfullhashraw}{d9dca0dd69a7d9ad5e8d20c527d5e4b1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{An introduction}
+      \field{title}{The {Saami} languages}
+      \field{year}{1998}
+    \endentry
+    \entry{SIKOR2021}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=a4512a4e1e69c551d659a657dffa5a8b}{%
+           family={SIKOR},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4512a4e1e69c551d659a657dffa5a8b}
+      \strng{fullhash}{a4512a4e1e69c551d659a657dffa5a8b}
+      \strng{fullhashraw}{a4512a4e1e69c551d659a657dffa5a8b}
+      \strng{bibnamehash}{a4512a4e1e69c551d659a657dffa5a8b}
+      \strng{authorbibnamehash}{a4512a4e1e69c551d659a657dffa5a8b}
+      \strng{authornamehash}{a4512a4e1e69c551d659a657dffa5a8b}
+      \strng{authorfullhash}{a4512a4e1e69c551d659a657dffa5a8b}
+      \strng{authorfullhashraw}{a4512a4e1e69c551d659a657dffa5a8b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Version 01.12.2021}
+      \field{title}{Ui{T} – {T}he {A}rctic {U}niversity of {N}orway and the {N}orwegian {S}aami {P}arliament’s {S}aami text collection}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://gtweb.uit.no/korp/
+      \endverb
+      \verb{url}
+      \verb http://gtweb.uit.no/korp/
+      \endverb
+    \endentry
+    \entry{Spiik1989}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e6de8d03d8c823669aaef87b4eb9c891}{%
+           family={Spiik},
+           familyi={S\bibinitperiod},
+           given={Nils\bibnamedelima Eric},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jokkmokk}%
+      }
+      \list{publisher}{1}{%
+        {Sameskolstyrelsen}%
+      }
+      \strng{namehash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{fullhash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{fullhashraw}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{bibnamehash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{authorbibnamehash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{authornamehash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{authorfullhash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{authorfullhashraw}{e6de8d03d8c823669aaef87b4eb9c891}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Lulesamisk grammatik}
+      \field{year}{1989}
+    \endentry
+    \entry{Spiik1994}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e6de8d03d8c823669aaef87b4eb9c891}{%
+           family={Spiik},
+           familyi={S\bibinitperiod},
+           given={Nils\bibnamedelima Eric},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jokkmokk}%
+      }
+      \list{publisher}{1}{%
+        {Sameskolstyrelsen}%
+      }
+      \strng{namehash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{fullhash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{fullhashraw}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{bibnamehash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{authorbibnamehash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{authornamehash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{authorfullhash}{e6de8d03d8c823669aaef87b4eb9c891}
+      \strng{authorfullhashraw}{e6de8d03d8c823669aaef87b4eb9c891}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lulesamisk ordbok: {S}vensk-samisk}
+      \field{year}{1994}
+    \endentry
+    \entry{Svonni2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9ff71bede6ed21b6e34459ebdaca4d77}{%
+           family={Svonni},
+           familyi={S\bibinitperiod},
+           given={Mikael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Kiruna}%
+      }
+      \list{publisher}{1}{%
+        {Ravda Lágádus}%
+      }
+      \strng{namehash}{9ff71bede6ed21b6e34459ebdaca4d77}
+      \strng{fullhash}{9ff71bede6ed21b6e34459ebdaca4d77}
+      \strng{fullhashraw}{9ff71bede6ed21b6e34459ebdaca4d77}
+      \strng{bibnamehash}{9ff71bede6ed21b6e34459ebdaca4d77}
+      \strng{authorbibnamehash}{9ff71bede6ed21b6e34459ebdaca4d77}
+      \strng{authornamehash}{9ff71bede6ed21b6e34459ebdaca4d77}
+      \strng{authorfullhash}{9ff71bede6ed21b6e34459ebdaca4d77}
+      \strng{authorfullhashraw}{9ff71bede6ed21b6e34459ebdaca4d77}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modern nordsamisk grammatik}
+      \field{year}{2018}
+    \endentry
+    \entry{Tuolja1987}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e00f4e56f34e6bf4e021438529eab589}{%
+           family={Tuolja},
+           familyi={T\bibinitperiod},
+           given={Lars\bibnamedelima Matto},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jokkmokk}%
+      }
+      \list{publisher}{1}{%
+        {Sámi Girjjit}%
+      }
+      \strng{namehash}{e00f4e56f34e6bf4e021438529eab589}
+      \strng{fullhash}{e00f4e56f34e6bf4e021438529eab589}
+      \strng{fullhashraw}{e00f4e56f34e6bf4e021438529eab589}
+      \strng{bibnamehash}{e00f4e56f34e6bf4e021438529eab589}
+      \strng{authorbibnamehash}{e00f4e56f34e6bf4e021438529eab589}
+      \strng{authornamehash}{e00f4e56f34e6bf4e021438529eab589}
+      \strng{authorfullhash}{e00f4e56f34e6bf4e021438529eab589}
+      \strng{authorfullhashraw}{e00f4e56f34e6bf4e021438529eab589}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tjaktjalasta}
+      \field{year}{1987}
+    \endentry
+    \entry{AuweraEtAl2013}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=c86c2fcdb10ad5f0d82b9f8ed0aeaa5b}{%
+           family={Auwera},
+           familyi={A\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=402aedc04a27baa4a4f843081528501f}{%
+           family={Lejeune},
+           familyi={L\bibinitperiod},
+           given={Ludo},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ebc8611479e70482565864e81aee4e75}{%
+           family={Dryer},
+           familyi={D\bibinitperiod},
+           given={Matthew\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6554cfb014a9427af44c63f16722a3dd}{%
+           family={Haspelmath},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leipzig}%
+      }
+      \list{publisher}{1}{%
+        {Max Planck Institute for Evolutionary Anthropology}%
+      }
+      \strng{namehash}{5524a47bb4ef3dc376ececdac258ea07}
+      \strng{fullhash}{5524a47bb4ef3dc376ececdac258ea07}
+      \strng{fullhashraw}{5524a47bb4ef3dc376ececdac258ea07}
+      \strng{bibnamehash}{5524a47bb4ef3dc376ececdac258ea07}
+      \strng{authorbibnamehash}{5524a47bb4ef3dc376ececdac258ea07}
+      \strng{authornamehash}{5524a47bb4ef3dc376ececdac258ea07}
+      \strng{authorfullhash}{5524a47bb4ef3dc376ececdac258ea07}
+      \strng{authorfullhashraw}{5524a47bb4ef3dc376ececdac258ea07}
+      \strng{editorbibnamehash}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \strng{editornamehash}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \strng{editorfullhash}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \strng{editorfullhashraw}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{WALS} {O}nline}
+      \field{title}{The Prohibitive}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://wals.info/chapter/71
+      \endverb
+      \verb{url}
+      \verb https://wals.info/chapter/71
+      \endverb
+    \endentry
+    \entry{Wiklund1891}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=0de880f63dc257014f4baafb65428443}{%
+           family={Wiklund},
+           familyi={W\bibinitperiod},
+           given={K.\bibnamedelimi B.},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stockholm}%
+      }
+      \list{publisher}{1}{%
+        {P. A. Norstedt \& Söner}%
+      }
+      \strng{namehash}{0de880f63dc257014f4baafb65428443}
+      \strng{fullhash}{0de880f63dc257014f4baafb65428443}
+      \strng{fullhashraw}{0de880f63dc257014f4baafb65428443}
+      \strng{bibnamehash}{0de880f63dc257014f4baafb65428443}
+      \strng{authorbibnamehash}{0de880f63dc257014f4baafb65428443}
+      \strng{authornamehash}{0de880f63dc257014f4baafb65428443}
+      \strng{authorfullhash}{0de880f63dc257014f4baafb65428443}
+      \strng{authorfullhashraw}{0de880f63dc257014f4baafb65428443}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Laut}- und {Formenlehre} der {L}ule-{L}appischen {Dialekte}}
+      \field{year}{1891}
+    \endentry
+    \entry{Wiklund1915}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=0de880f63dc257014f4baafb65428443}{%
+           family={Wiklund},
+           familyi={W\bibinitperiod},
+           given={K.\bibnamedelimi B.},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stockholm}%
+      }
+      \list{publisher}{1}{%
+        {Björck \& Börjesson}%
+      }
+      \strng{namehash}{0de880f63dc257014f4baafb65428443}
+      \strng{fullhash}{0de880f63dc257014f4baafb65428443}
+      \strng{fullhashraw}{0de880f63dc257014f4baafb65428443}
+      \strng{bibnamehash}{0de880f63dc257014f4baafb65428443}
+      \strng{authorbibnamehash}{0de880f63dc257014f4baafb65428443}
+      \strng{authornamehash}{0de880f63dc257014f4baafb65428443}
+      \strng{authorfullhash}{0de880f63dc257014f4baafb65428443}
+      \strng{authorfullhashraw}{0de880f63dc257014f4baafb65428443}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Lärobok i lapska språket}
+      \field{year}{1915}
+    \endentry
+    \entry{Ylikoski2009}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=c82917d2d78c324978975d1a87782eff}{%
+           family={Ylikoski},
+           familyi={Y\bibinitperiod},
+           given={Jussi},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Helsinki}%
+      }
+      \list{publisher}{1}{%
+        {Finno-Ugrian Society}%
+      }
+      \strng{namehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{fullhash}{c82917d2d78c324978975d1a87782eff}
+      \strng{fullhashraw}{c82917d2d78c324978975d1a87782eff}
+      \strng{bibnamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorbibnamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authornamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorfullhash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorfullhashraw}{c82917d2d78c324978975d1a87782eff}
+      \field{extraname}{1}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{257}
+      \field{series}{Suomalais-Ugrilaisen Seuran Toimituksia}
+      \field{title}{Non-finites in {North} {Saami}}
+      \field{year}{2009}
+    \endentry
+    \entry{Ylikoski2016a}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=c82917d2d78c324978975d1a87782eff}{%
+           family={Ylikoski},
+           familyi={Y\bibinitperiod},
+           given={Jussi},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{fullhash}{c82917d2d78c324978975d1a87782eff}
+      \strng{fullhashraw}{c82917d2d78c324978975d1a87782eff}
+      \strng{bibnamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorbibnamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authornamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorfullhash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorfullhashraw}{c82917d2d78c324978975d1a87782eff}
+      \field{extraname}{2}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Finnisch-Ugrische Mitteilungen}
+      \field{title}{Degrammaticalization in {North} {Saami}: {{D}}evelopment of adpositions, adverbs and a free lexical noun from inflectional and derivational suffixes}
+      \field{volume}{40}
+      \field{year}{2016}
+      \field{pages}{113\bibrangedash 173}
+      \range{pages}{61}
+    \endentry
+    \entry{Ylikoski2016b}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=c82917d2d78c324978975d1a87782eff}{%
+           family={Ylikoski},
+           familyi={Y\bibinitperiod},
+           given={Jussi},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{fullhash}{c82917d2d78c324978975d1a87782eff}
+      \strng{fullhashraw}{c82917d2d78c324978975d1a87782eff}
+      \strng{bibnamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorbibnamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authornamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorfullhash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorfullhashraw}{c82917d2d78c324978975d1a87782eff}
+      \field{extraname}{3}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Estonian and Finno-Ugric Linguistics}
+      \field{number}{2}
+      \field{title}{Future time reference in {Lule} {Saami}, with some remarks on {Finnish}}
+      \field{volume}{7}
+      \field{year}{2016}
+      \field{pages}{209\bibrangedash 244}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.12697/jeful.2016.7.2.09
+      \endverb
+    \endentry
+    \entry{Ylikoski2022}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=c82917d2d78c324978975d1a87782eff}{%
+           family={Ylikoski},
+           familyi={Y\bibinitperiod},
+           given={Jussi},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=ff94b7778195378a13142dc311f94712}{%
+           family={Bakró-Nagy},
+           familyi={B\bibinithyphendelim N\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod}}}%
+        {{hash=435405b001dd065689caf8331e5827bc}{%
+           family={Laakso},
+           familyi={L\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod}}}%
+        {{hash=17218fa927d39c4b9f88ebe0244270b7}{%
+           family={Skribnik},
+           familyi={S\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{fullhash}{c82917d2d78c324978975d1a87782eff}
+      \strng{fullhashraw}{c82917d2d78c324978975d1a87782eff}
+      \strng{bibnamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorbibnamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authornamehash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorfullhash}{c82917d2d78c324978975d1a87782eff}
+      \strng{authorfullhashraw}{c82917d2d78c324978975d1a87782eff}
+      \strng{editorbibnamehash}{07c01520bcf83f1273cda93c55fdc50e}
+      \strng{editornamehash}{3a1ba5f9454599a9da7739abbcc9b919}
+      \strng{editorfullhash}{07c01520bcf83f1273cda93c55fdc50e}
+      \strng{editorfullhashraw}{07c01520bcf83f1273cda93c55fdc50e}
+      \field{extraname}{4}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Oxford} guide to the {Uralic} languages}
+      \field{title}{Lule {Saami}}
+      \field{year}{2022}
+      \field{pages}{130\bibrangedash 146}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1093/oso/9780198767664.003.0009
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
